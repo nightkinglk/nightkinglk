@@ -1,16 +1,33 @@
-### Hi there 👋
+<a name="readme-top"></a>
 
-<!--
-**nightkinglk/nightkinglk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">!!! WELCOME TO MY KINDOM !!!</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">I'm The "Knight King", The Emperor Of The Virtual Realm.</h2>
+
+
+<br /><br />
+
+## Here are some of the places under my monarchy.
+
+
+|||
+| ------------ | ----------- |
+| **Github**   | [github.com/**nightkinglk**](https://github.com/nightkinglk) |
+| **Youtube**  | [youtube.com/**@nightkinglk**](https://www.youtube.com/@nightkinglk) |
+| **Twitter**  | [twitter.com/**nightkinglk**](https://twitter.com/nightkinglk) |
+| **Linkedin** | [linkedin.com/company/**nightkinglk**](https://www.linkedin.com/company/nightkinglk) |
+| **Odysee**   | [odysee.com/**@nightkinglk:a**](https://odysee.com/@nightkinglk:a) |
+
+
+<br /><br /><p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+# License
+
+Code released under the [Creative Commons Zero v1.0 Universal ](https://github.com/thilokaviraj/thilokaviraj/blob/main/LICENSE).
+
+
+<br /><br /><p align="right">(<a href="#readme-top">back to top</a>)</p>
+
