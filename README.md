@@ -1,16 +1,33 @@
-## Hi there 👋
+<br /><br />
 
-<!--
-**nightkinglk/nightkinglk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">!!!...WELCOME TO MY KINGDOM...!!!</h3>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">I</h1>
+<h1 align="center">AM</h1>
+<h1 align="center">THE</h1>
+<h1 align="center">KNIGHT KING</h1>
+
+<h3 align="center"><i>"The Emperor Of The Virtual Realm."</i></h3>
+
+<br /><br />
+
+---
+
+<br /><br />
+
+### Here are some of the places under my monarchy.
+
+|              |                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------ |
+| **Web**      | [**nightkinglk**.web.app](https://nightkinglk.web.app)                               |
+| **Github**   | [github.com/**nightkinglk**](https://github.com/nightkinglk)                         |
+| **Youtube**  | [youtube.com/**@nightkinglk**](https://www.youtube.com/@nightkinglk)                 |
+| **Twitter**  | [twitter.com/**nightkinglk**](https://twitter.com/nightkinglk)                       |
+| **Linkedin** | [linkedin.com/company/**nightkinglk**](https://www.linkedin.com/company/nightkinglk) |
+| **Odysee**   | [odysee.com/**@nightkinglk:a**](https://odysee.com/@nightkinglk:a)                   |
+
+<br /><br />
+
+---
