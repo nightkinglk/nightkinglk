@@ -1,16 +1,21 @@
 <br /><br />
 
-<h3 align="center">!!!...WELCOME TO MY KINGDOM...!!!</h3>
+<h2 align="center">!!!...WELCOME TO MY KINGDOM...!!!</h2>
 
 <br />
 
-<h1 align="center">I AM THE KNIGHT KING,</h1>
+<h1 align="center">I</h1>
+<h1 align="center">AM</h1>
+<h1 align="center">THE</h1>
+<h1 align="center">KNIGHT KING</h1>
 
-<h3 align="center"><i>"The Emperor Of The Virtual Realm."</i></h3>
+<h2 align="center"><i>"The Emperor Of The Virtual Realm."</i></h2>
 
 <br /><br />
 
 ---
+
+<br /><br />
 
 ## Here are some of the places under my monarchy.
 
